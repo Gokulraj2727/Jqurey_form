@@ -1,0 +1,33 @@
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/22/344070-space-stars-helix_nebula.jpg)
+}
+h1 {
+    color:rgb(4, 206, 206);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 5px;
+}
+
+form {
+    padding: 7% 0px;
+    width: 70%;
+    background-color: rgb(144, 121, 121);
+    margin-top: 3%;
+    padding-left: 50px;
+
+}
+.main {
+    margin-left: 20%;
+}
+
+.lol {
+    padding: 1px 150px;
+}
+.lable{
+    padding: 15px 0;
+}
+.submit{
+    margin-top: 10px;
+} 
